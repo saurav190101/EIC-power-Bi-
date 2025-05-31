@@ -2,7 +2,7 @@
 
 ## Dashbord look like
 
-![logo](https://github.com/saurav190101/E_commerce-SQL/blob/main/Screenshot%202025-05-08%20133445.png)
+![logo](https://github.com/saurav190101/EIC-power-Bi-/blob/main/dashboard%20(2).png)
 
 
 🔍 Project Overview
