@@ -33,9 +33,14 @@
 
 
 
-Project By
+## Project By
 
 Saurav Kumar
+
 Freelance Data Analyst
+
 📧 saurav19k0101@gmail.com
-🔗 LinkedIn | GitHub
+
+🔗 LinkedIn :[https://www.linkedin.com/in/saurav-kumar-3972522b0/]
+
+
