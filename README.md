@@ -30,7 +30,13 @@
     Relationship modeling between policy, customer
 
     Insight storytelling via dashboards
+    
 
+## | File                               | Description                |
+| ---------------------------------- | -------------------------- |
+| `EIC_Insurance_Analysis.pbix`      | Power BI dashboard file    |
+| `Screenshot_2025-05-31_210007.png` | Dashboard preview image    |
+| `README.md`                        | This project documentation |
 
 
 ## Project By
